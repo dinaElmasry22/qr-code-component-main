@@ -38,9 +38,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ```css
 body {
+      background-color: hsl(212, 45%, 89%);
       display: flex;
       justify-content: center;
       align-items: center;
+      height: 100vh;
     }
 ```
 
